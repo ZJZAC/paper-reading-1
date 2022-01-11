@@ -3,7 +3,7 @@
 ## 录制完成的论文
 
 
-| 日期 | 标题 | 封面 | 时长 | 视频（4K） |  看过
+| 日期 | 标题 | 封面 | 时长 | 视频（4K） | 看过
 | -- | -- | -- | --: | -- | -- |
 | 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/), [知乎](https://www.zhihu.com/zvideo/1464060386375299072), [YouTube](https://youtu.be/czFGjvhtss8) | 
 | 1/5/22 | AlphaFold 2 预告 | <img src="imgs/alphafold_2_preview.jpg" width="200px"/> | 03:28 | [B站](https://www.bilibili.com/video/BV1Eu411U7Te/) | 
